@@ -1,12 +1,12 @@
 
-# unsplash-clone
+# static-pages
 
-This websites provides you with beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+This websites includes static pages as Dashboard, Table and Form.
 
 
 ## Acknowledgements
 
-**Vercel link of our project**: https://unsplash-clone-photos.netlify.app/
+**Vercel link of our project**: https://static-pages-two.vercel.app/
 
 ## Authors
 
